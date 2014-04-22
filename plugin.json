@@ -1,0 +1,18 @@
+{
+    "name": "Reevo Piwik Theme",
+    "description": "Reevo is the alternative education network. Reevo es la red de educación alternativa.",
+    "theme": true,
+    "version": "0.0.1",
+    "license": "AGPL v3",
+    "stylesheet": "stylesheets/theme.less",
+    "javascript": ["javascripts/jquery.icheck.min.js", "javascripts/morpheus.js"],
+    "homepage": "http://git.reevo.org/piwik/reevo-piwik-theme/",
+    "authors": [
+        {
+            "name": "Reevo Team",
+            "email": "info@reevo.org",
+            "homepage": "http://git.reevo.org"
+        }
+    ]
+
+}
